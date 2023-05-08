@@ -1,0 +1,21 @@
+@media (max-width: 1400px) {
+    .back__img img{
+        width: 75%;
+        height: 75%;
+    }
+    .main__title{
+        margin-bottom: 12rem;
+        right: 70px;
+    }
+    .main__title h1{
+        font-size: 32px;
+    }
+    .main__navigation{
+        margin-top: 35rem;
+        margin-left: 3rem;
+    }
+    .navigation__item{
+        padding: 25px 0;
+        width: 225px;
+    }
+}
